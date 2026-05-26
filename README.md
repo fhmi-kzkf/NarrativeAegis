@@ -98,10 +98,10 @@ Create a `.env.local` file in the root of this app (`/narrative-shield-app`):
 
 ```env
 # Google Gemini API Key
-GOOGLE_GEMINI_API_KEY=AIzaSy...
+GOOGLE_GEMINI_API_KEY="YOUR API KEY HERE"
 
 # Bright Data API Key
-BRIGHT_DATA_API_KEY=eyJhbGciOi...
+BRIGHT_DATA_API_KEY="YOUR API KEY HERE"
 ```
 
 *Make sure your Bright Data API Key has permissions to read Zone metadata and trigger SERP requests.*
