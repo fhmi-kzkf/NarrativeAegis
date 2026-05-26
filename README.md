@@ -2,7 +2,7 @@
 
 NarrativeShield is a state-of-the-art brand intelligence and reputation protection platform. Designed for modern PR, SEO, and brand management, NarrativeShield provides continuous visibility into what generative AI search engines (like Google AI Overviews, Perplexity, etc.) tell users about your brand. By auditing search engine result pages (SERPs) across geographies and languages, it automatically flags "poison sources" (outdated, competitor-biased, or inaccurate content) and generates prioritized playbooks to correct and shape your AI-generated brand narrative.
 
-Built for the **Bright Data Web Intelligence Hackathon 2026**.
+Built for the **Web Data UNLOCKED Hackathon 2026**.
 
 ---
 
